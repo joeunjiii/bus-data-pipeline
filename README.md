@@ -1,7 +1,7 @@
 # 🚌 서울시 버스 데이터 정제 및 시각화 프로젝트  
 ### Seoul Bus Data Analysis & Visualization
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 
